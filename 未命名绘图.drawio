@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-41" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-44" value="提取轮廓坐标点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="171" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-45" value="平滑处理坐标点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="231" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-46" value="计算轮廓曲线和模板曲线的曲率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="291" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
