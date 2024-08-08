@@ -7,14 +7,26 @@
         <mxCell id="qEsYkAyANXAOBNcOcd8i-41" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qEsYkAyANXAOBNcOcd8i-44" value="提取轮廓坐标点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="171" width="140" height="50" as="geometry" />
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="171" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qEsYkAyANXAOBNcOcd8i-45" value="平滑处理坐标点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="231" width="140" height="50" as="geometry" />
+          <mxGeometry x="410" y="231" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qEsYkAyANXAOBNcOcd8i-46" value="计算轮廓曲线和模板曲线的曲率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="291" width="140" height="50" as="geometry" />
+          <mxGeometry x="410" y="291" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-47" value="计算轮廓曲线和模板曲线的曲率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-48" value="动态规划算法拟合轮廓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="413" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-49" value="构造拟合曲线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="470" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEsYkAyANXAOBNcOcd8i-50" value="提取轮廓坐标点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="50" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
